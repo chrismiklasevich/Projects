@@ -1,0 +1,22 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+SEX.id,Gender code
+SEX.display-label,Meaning of Gender code
+ETH_GROUP.id,Ethnicity code
+ETH_GROUP.display-label,Meaning of Ethnicity code
+RACE_GROUP.id,Race code
+RACE_GROUP.display-label,Meaning of Race code
+VET_GROUP.id,Veteran code
+VET_GROUP.display-label,Meaning of Veteran code
+YEAR.id,Year
+FIRMPDEMP,Number of firms with paid employees 
+RCPPDEMP,"Sales, receipts, or value of shipments of firms with paid employees ($1,000) "
+EMP,Number of paid employees for pay period including March 12 
+PAYANN,"Annual payroll ($1,000) "
+FIRMPDEMP_S,Relative standard error of number of firms with paid employees (%) 
+RCPPDEMP_S,"Relative standard error of sales, receipts, or value of shipments of firms with paid employees (%) "
+EMP_S,Relative standard error of number of paid employees for pay period including March 12 (%) 
+PAYANN_S,Relative standard error of annual payroll (%) 
