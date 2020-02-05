@@ -1,2 +1,7 @@
 # Projects
-This is for using data science technics on the personal projects using python and R (Will start)
+CDC.gov Project finished extracting a table from a pdf to a csv file using pandas.
+
+
+
+
+
